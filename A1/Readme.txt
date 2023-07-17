@@ -1,7 +1,7 @@
 CSC 360
 Assignment 1
 Paul Garewal
-V00803658
+
 
 To run this code:
 
