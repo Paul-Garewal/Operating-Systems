@@ -12,7 +12,7 @@
  * ---------------------
  * Returns a pointer for a new queue node
  *
- * value: the value of the new node
+ * Value: the value of the new node
  *
  */
 
